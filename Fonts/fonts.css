@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Poppins' ;
+    src: url(../Fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Roboto';
+    src: url(../Fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Rowdies';
+    src: url(../Fonts/Rowdies/Rowdies-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url(../Fonts/Rubik/static/Rubik-Regular.ttf);
+}
